@@ -10,4 +10,3 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["beekeeb/3w6hs"]'
-      merge: '["qmk/qmk_firmware/master"]'
