@@ -10,5 +10,4 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["beekeeb/3w6hs"]'
-      keymap: '["manna-harbour_miryoku"]'
       merge: '["qmk/qmk_firmware/master"]'
